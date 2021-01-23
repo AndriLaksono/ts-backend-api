@@ -1,0 +1,7 @@
+Uncomplete
+- get outlet by brand + haversine == OK
+- haversine-formula to get sortest outlet from Monas. == OK
+- CRUD Product == OKE
+- Total Product (all and by brand) == OKE
+- Produce GraphQL
+- Write Test
